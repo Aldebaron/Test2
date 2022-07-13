@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWTqx+Zr2xLZP8vz1uCrw3zH0v+VBrtQn8JRR1iUNYjBBV0ke5Pvq1Y+VkUnrNMPQNroRsf/iUklx9yeHhq8Aw==",
+  "success": true,
+  "projectFilePath": "/Users/allielevin/Projects/Test2/Test2.csproj",
+  "expectedPackageFiles": [
+    "/Users/allielevin/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/allielevin/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/allielevin/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/allielevin/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/allielevin/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/allielevin/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
